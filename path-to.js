@@ -2,7 +2,7 @@ var seconds = 1; // seconds
 var foo; // variable for clearInterval() function
 
 function redirect() {
-    document.location.href = 'http://sunsetsmores.com';
+    document.location.href = 'https://sunsetsmores.com';
 }
 
 function updateSecs() {
